@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-246-chore-ci-lint-uses-fix-there-is-no-typecheck",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-246-chore-ci-lint-uses-fix-there-is-no-typecheck": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-246-chore-ci-lint-uses-fix-there-is-no-typecheck",
+    "origin"
+  ]
+}
